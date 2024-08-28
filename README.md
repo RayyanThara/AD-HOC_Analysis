@@ -30,5 +30,6 @@ Tony Sharma, their data analytics director wanted to hire someone who is good at
 
 
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanthara/)
 
 
