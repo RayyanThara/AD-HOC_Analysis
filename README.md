@@ -29,7 +29,7 @@ Tony Sharma, their data analytics director wanted to hire someone who is good at
 * LinkedIn Post [Click here]()
 
 
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Rayyan-Thara)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanthara/)
 
 
